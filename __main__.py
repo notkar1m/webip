@@ -9,6 +9,6 @@ def main(site):
 try:
     site = sys.argv[1]
     ips = main(site)
-    print(repr(''.join(ips[2])))
+    print(repr(''.join(ips[2][0])))
 except IndexError:
     print("You Need To Specify The Website!")
