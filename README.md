@@ -3,7 +3,7 @@ Get any website's ip adress easily!
 ## Installation
 
 ```sh
-git clone link_hena
+git clone https://github.com/notkar1m/webip.git
 ```
 ## Usage
 ```sh
